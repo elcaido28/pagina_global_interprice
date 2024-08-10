@@ -1,0 +1,33 @@
+/*pegar en los estilos ;)*/
+/*mensajes de validacion*/
+.confirmar_clave{
+  width: 95%;
+  height: 30px;
+  padding: 20px 10px;
+  background: #B4E6EB;
+  border: 2px solid #42878E;
+  border-radius: 5px;
+}
+.confirmar_clave p{
+  color: #7C7C7C;
+  font-size: 16px;
+  font-family: arial;
+}
+.confirmar_clave p span{
+  color: #508FF7;
+  font-size: 16px;
+  font-weight: bold;
+}
+.error_clave{
+  width: 95%;
+  height: 30px;
+  padding: 20px 10px;
+  background: #F7A187;
+  border: 2px solid #F23E07;
+  border-radius: 5px;
+}
+.error_clave p{
+  color: white;
+  font-size: 16px;
+  font-family: arial;
+}
